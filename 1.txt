@@ -1,1 +1,2 @@
 first line from IDEA
+second line from GIT
